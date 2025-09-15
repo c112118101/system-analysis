@@ -6,12 +6,10 @@
 ##### system
 
 ```
-color：
-
-- red
-- blue
+food
+- French fries🍟
 
 ```
 [高科教學平台](https://elearning.nkust.edu.tw/moocs/#/home)
 
-![ha](images.jpg "ha")
+![](images.jpg "ha")
