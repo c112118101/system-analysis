@@ -15,7 +15,7 @@ https://www.youtube.com/
 
 ![2.gif](https://github.com/c112118101/system-analysis/blob/89cbeb0bf8b615e9f6871f0cb88b3ea88895d3a2/2.gif)
 
-### 吾之愛句
+### 吾愛之句
 > 不要拿別人的成功來懲罰自己。
 >
 > 若你能一直前進，無論外界如何定義、批評你，今天的你就是比昨天更好。
